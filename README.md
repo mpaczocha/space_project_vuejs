@@ -1,34 +1,11 @@
-# space_project_vuejs
+#Space project
 
-## Project setup
-```
-npm install
-```
+This app uses NASA image API to fetch images and display them after passing search query.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### How to start?
 
-### Compiles and minifies for production
 ```
-npm run build
-```
+npm
+npm serve
 
-### Run your tests
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
